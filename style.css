@@ -1,0 +1,67 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#navbarNav a{
+      color:#fff;
+}  
+#navbarNav a:hover{
+    border-bottom: 2px solid red;
+}
+#navbarNav button{
+    background-color: rgb(0, 255, 234);
+    border-radius: 20px;
+}
+#carousel{
+    background-size: cover;
+    max-width: auto;
+    height: 100vh;
+}
+#paragraph{
+    background-color: black;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 10px;
+    color: cornsilk;
+}
+h1{
+    width: auto;
+    color: chartreuse;
+    text-align: center;
+    text-decoration: underline;
+    cursor: cell;
+    background-color: rgb(250, 84, 42);
+}
+h3{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration:underline royalblue;
+    color: crimson;
+}
+h5{
+    color: rgb(189, 19, 204);
+    text-decoration:underline;
+}
+p{
+    text-align: center;
+   color:darkblue; 
+   cursor: all-scroll; 
+   border-radius: 20px;
+   text-decoration: overline;
+}
+.card-title{
+    background-color: black;
+}
+p1{
+    background-color:blueviolet;
+    color:white;
+    text-align: center;
+}
+.read{
+    text-align: center;
+    text-decoration: dashed;
+    background-color:coral;
+
+}
